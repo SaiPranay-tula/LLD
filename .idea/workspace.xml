@@ -4,30 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ce556c-56b3-45d3-829e-458e38a2a574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx1_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx1_Sol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx2_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx2_Sol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx3_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/OpenCloEx3_Sol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/S/SingleResEx6.java" afterDir="false" />
+    <list default="true" id="d4ce556c-56b3-45d3-829e-458e38a2a574" name="Changes" comment="SOLID Principles">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/ISPEx1_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/ISPEx1_Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/ISPEx2_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/ISPEx2_Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/LSPEx1_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/LSPEx1_Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/LSPEx2_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/LSPEx2_Sol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +75,15 @@
       <option name="presentableId" value="Default" />
       <updated>1738248413353</updated>
     </task>
+    <task id="LOCAL-00001" summary="SOLID Principles">
+      <option name="closed" value="true" />
+      <created>1738252514408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738252514408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SOLID Principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID Principles" />
   </component>
 </project>
